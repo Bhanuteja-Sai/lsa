@@ -11,7 +11,7 @@ const Courses = () => {
     { title: 'Cut Work', duration: '30 days', price: '500/-' },
     { title: 'Dress', duration: '30 days', price: '1000/-' },
     { title: 'Patch Work', duration: '30 days', price: '500/-' },
-    { title: 'Complete Bundle', duration: '66 days', price: '12,000/-', highlight: true },
+    { title: 'Complete Bundle', duration: '66 days', price: '12,000/-t ', highlight: true },
   ]
 
   return (
